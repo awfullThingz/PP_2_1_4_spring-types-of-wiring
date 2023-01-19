@@ -14,7 +14,6 @@ public class MainTest {
 
     @Autowired
     private ApplicationContext applicationContext;
-
     @Test
     public void mainTest() {
         String text = "На свете есть океан , на океане остров , на острове дерево , на дереве заяц , в зайце утка , в утке яйцо , в яйце иголка , смерть Кощея на игле :(";
